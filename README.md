@@ -11,7 +11,7 @@
 
 <div>
 <p align="center">
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.7id_z0V4_uZTtKeeCqChfAHaIV?pid=ImgDet&rs=1" width="36" height="36" alt="C++" /></a>
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256498/file-type-cpp-icon-md.png" width="36" height="36" alt="C++" /></a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://www.pinclipart.com/picdir/big/540-5404935_java-logo-png-hd-clipart.png" width="36" 
 height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
