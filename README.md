@@ -11,7 +11,7 @@
 
 <div>
 <p align="center">
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://www.itsolutionsjovel.com/wp-content/uploads/2018/05/cpp_logo-600x675.png" width="36" height="36" alt="C++" /></a>
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.7id_z0V4_uZTtKeeCqChfAHaIV?pid=ImgDet&rs=1" width="36" height="36" alt="C++" /></a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://www.pinclipart.com/picdir/big/540-5404935_java-logo-png-hd-clipart.png" width="36" 
 height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
