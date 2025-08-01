@@ -12,12 +12,12 @@
 <div>
 <p align="center">
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256498/file-type-cpp-icon-md.png" width="36" height="36" alt="C++" /></a>
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://www.pinclipart.com/picdir/big/540-5404935_java-logo-png-hd-clipart.png" width="36" 
-height="36" alt="Java" /></a>
+<!-- <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://www.pinclipart.com/picdir/big/540-5404935_java-logo-png-hd-clipart.png" width="36" 
+height="36" alt="Java" /></a> -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th?id=OSK.d17037552bce428ee5e857f68ab88ba3&w=148&h=148&c=7&o=6&dpr=1.5&pid=SANGAM" width="36" 
-height="36" alt="Rust" /></a>
+<!-- <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th?id=OSK.d17037552bce428ee5e857f68ab88ba3&w=148&h=148&c=7&o=6&dpr=1.5&pid=SANGAM" width="36" 
+height="36" alt="Rust" /></a> -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
