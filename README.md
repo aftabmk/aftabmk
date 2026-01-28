@@ -1,4 +1,3 @@
-### Hey 👋
 <h3 align="center">A Software Engineer | Full Stack | I </h3> 
 
 <div align="center">
